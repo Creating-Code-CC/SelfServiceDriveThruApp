@@ -1,7 +1,8 @@
 import streamlit as st
 from openai import OpenAI
+client = OpenAI(api_key='YOUR API KEY')
 
-assistant = client.beta.assistants.retrieve(assistant_id='YourOpenAiAPIKey')
+assistant = client.beta.assistants.retrieve(assistant_id='asst_jof6eifkF6XAZiYW5OcGrZGQ')
 
 st.title("Wendy's Drive Thru Assistant")
 if 'messages' not in st.session_state:
