@@ -3,8 +3,6 @@
 
 This project is inspired by Wendy's FreshAI drive-thru innovation, which leverages artificial intelligence to enhance the customer experience by making it faster, more accurate, and more personalized. Wendy's implementation of AI in their drive-thru showcases how modern technology can revolutionize traditional processes.
 
-
-Preview App Here: https://selfservicedrivethruapp-pjasphwghjfma3trnv88jw.streamlit.app/
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -14,6 +12,8 @@ Preview App Here: https://selfservicedrivethruapp-pjasphwghjfma3trnv88jw.streaml
 - [License](#license)
 
 ## Overview
+Preview App Here: https://selfservicedrivethruapp-pjasphwghjfma3trnv88jw.streamlit.app/
+
 This project aims to replicate and expand upon the AI-driven drive-thru concept introduced by Wendy's. The application uses AI technologies to streamline the ordering process, improve order accuracy, and provide personalized menu suggestions. The goal is to create a seamless and efficient drive-thru experience.
 
 ### Inspiration
@@ -25,6 +25,11 @@ Wendy's FreshAI initiative demonstrates the potential of AI to transform the fas
 
 ## Setup
 To set up the project locally, follow these steps:
+   ```sh
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
+
+   pip install -r requirements.txt
 
 ## Usage
 The data is based off of Wendy's menu. Try saying things like:
@@ -38,10 +43,5 @@ Here are some screenshots of the application in action:
 ![Screenshot 2](images/Screenshot2.png)
 ![Screenshot 3](images/Screenshot3.png)
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
 
-   pip install -r requirements.txt
 
