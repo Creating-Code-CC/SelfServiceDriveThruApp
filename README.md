@@ -2,7 +2,7 @@
 # Drive-Thru Innovation: FreshMenuAI Project
 
 This project is inspired by Wendy's FreshAI drive-thru innovation, which leverages artificial intelligence to enhance the customer experience by making it faster, more accurate, and more personalized. Wendy's implementation of AI in their drive-thru showcases how modern technology can revolutionize traditional processes.
-
+Preview App Here: https://selfservicedrivethruapp-pjasphwghjfma3trnv88jw.streamlit.app/
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
