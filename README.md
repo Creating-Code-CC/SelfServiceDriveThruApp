@@ -26,6 +26,18 @@ Wendy's FreshAI initiative demonstrates the potential of AI to transform the fas
 ## Setup
 To set up the project locally, follow these steps:
 
+## Usage
+The data is based off of Wendy's menu. Try saying things like:
+- I'll take a Pretzel Baconator with a triple berry frosty.
+- I'll take a 6 piece chicken nugget meal.
+- etc.
+
+Here are some screenshots of the application in action:
+
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
+![Screenshot 3](images/Screenshot3.png)
+
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/yourproject.git
