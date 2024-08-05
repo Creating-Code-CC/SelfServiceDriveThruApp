@@ -23,14 +23,6 @@ Wendy's FreshAI initiative demonstrates the potential of AI to transform the fas
 - **Order Accuracy:** Uses AI to verify order details and reduce errors.
 - - **Real-Time Processing:** Handles multiple orders simultaneously with minimal latency.
 
-## Setup
-To set up the project locally, follow these steps:
-   ```sh
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
-
-   pip install -r requirements.txt
-
 ## Usage
 The data is based off of Wendy's menu. Try saying things like:
 - I'll take a Pretzel Baconator with a triple berry frosty.
@@ -42,6 +34,15 @@ Here are some screenshots of the application in action:
 ![Screenshot 1](images/Screenshot1.png)
 ![Screenshot 2](images/Screenshot2.png)
 ![Screenshot 3](images/Screenshot3.png)
+## Setup
+To set up the project locally, follow these steps:
+   ```sh
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
+
+   pip install -r requirements.txt
+
+
 
 
 
