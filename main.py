@@ -1,6 +1,10 @@
 import streamlit as st
+import os
 from openai import OpenAI
-client = OpenAI(api_key='YOUR API KEY')
+from dotenv import load_dotenv
+load_dotenv()
+api_key=os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=api_key)
 
 assistant = client.beta.assistants.retrieve(assistant_id='asst_jof6eifkF6XAZiYW5OcGrZGQ')
 
